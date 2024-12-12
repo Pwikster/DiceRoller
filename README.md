@@ -1,4 +1,6 @@
-# practice
+# Dice Roller
 
-A place for all of my Flutter practice
+A small practice project for learning Flutter
+
+The app simply rolls a six sided die
 
